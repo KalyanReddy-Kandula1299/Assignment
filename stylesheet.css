@@ -1,0 +1,156 @@
+
+
+body {
+  font-family: "cursive";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #92a8d1;
+  color: #fff;
+  height: 100px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 30px;
+}
+
+.header-list li {
+  float: left;
+  padding: 30px 20px;
+}
+
+.main {
+  background-color: hsl(89, 43%, 51%)
+  padding: 70px 50px;
+}
+
+.copy-container h1 {
+  font-size: 30px;
+}
+
+.copy-container h2 {
+  font-size: 30px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 10px;
+}
+.mobile{
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 320px;
+}
+
+.laptops{
+  float: left;
+  margin-left: 10px;
+  width: 180px;
+}
+
+.gadgets{
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  width: 200px;
+}
+
+.bluetooth{
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 320px;
+}
+
+.contents-item p {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.contact-form {
+  padding-top: 60px;
+}
+
+/* Add CSS for <input> and <textarea> tags */
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom:30px;
+  padding: 20px;
+  font-size: 10px;
+  border: 1px solid #dee7ec;
+}
+
+/* Add CSS for contact-submit */
+.contact-submit{
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 100px;
+  padding: 10px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 30px;
+}
+
+.footer-list {
+  float: right;
+  padding-left: 100px;
+}
+
+.footer-list li {
+  padding-bottom: 10px;
+}
+
+.ContactInfo {
+  background-color: #92a871;
+  color: #fff;
+  height: 100px;
+  padding: 10px;
+}
+
+.ContactInfo-logo {
+  float: left;
+  font-size: 30px;
+}
+
+.ContactInfo-list {
+  float: right;
+  padding-left: 600px;
+}
+
+.ContactInfo-list li{
+  padding-bottom: 5px;
+}
+
+    
